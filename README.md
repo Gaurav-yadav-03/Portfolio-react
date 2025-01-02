@@ -1,7 +1,5 @@
-<div align="center">
+<div ">
 
-
-   <div align="center">
      A Modern Portfolio Website Made using nextjs
 </div>
 
